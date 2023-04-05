@@ -82,6 +82,9 @@ json
 * Deleta a venda com o id informado na URL.
 </details>
 
+## Nota final no projeto
+![store-manager-grade](https://github.com/ErickArgollo/project-Store-Manager/blob/main/grade.png)
+
 ## Rodando localmente
  ### Requisitos
  * Nodejs 16 + 
