@@ -18,6 +18,7 @@
 * Docker
 * MySQL
 * MySQL Workbench
+* Joi
 
 ## Como utilizar
 
