@@ -12,7 +12,7 @@
 * Gerenciar o banco de dados MySQL através do MySQL Workbench.
 * Garantir que a API seja segura, eficiente e que siga os princípios RESTful.
 
-## Tecnologias/Ferramentas usadas
+## Tecnologias/Ferramentas utilizadas
 * Node.js
 * Express
 * Docker
@@ -81,7 +81,7 @@ json
 #### Deleção de vendas
 ##### DELETE /sales/:id
 * Deleta a venda com o id informado na URL.
-</details>
+  </details>
 
 ## Nota final no projeto
 ![store-manager-grade](https://github.com/ErickArgollo/project-Store-Manager/blob/main/grade.png)
