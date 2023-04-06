@@ -19,6 +19,9 @@
 * MySQL
 * MySQL Workbench
 * Joi
+* Mocha
+* Sinon
+* Chai
 
 ## Como utilizar
 
