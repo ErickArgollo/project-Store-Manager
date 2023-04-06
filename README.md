@@ -2,7 +2,7 @@
 ![office](https://github.com/ErickArgollo/project-Store-Manager/blob/main/10j2.gif)
 
 
-#### Neste projeto, eu desenvolvi uma API utilizando a arquitetura MSC (model-service-controller) para gerenciamento de vendas no formato dropshipping. Com a API, é possível criar, visualizar, deletar e atualizar produtos e vendas.
+#### Neste projeto, eu desenvolvi uma API para gerenciamento de vendas no formato dropshipping, utilizando a arquitetura MSC (model-service-controller). Com essa API, é possível realizar operações CRUD (criar, visualizar, atualizar e deletar) tanto em produtos quanto em vendas. Além disso, para garantir a qualidade do código, implementei testes unitários utilizando as ferramentas Mocha, Chai e Sinon. Esses testes permitem verificar se as funcionalidades da API estão operando corretamente e ajudam a prevenir erros futuros.
 
 ## Objetivos
 * Desenvolver uma API RESTful utilizando a arquitetura MSC (model-service-controller) para gerenciamento de vendas no formato dropshipping.
